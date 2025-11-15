@@ -7,3 +7,9 @@ Cette approche me permet de comprendre à la fois la configuration du propriéta
  gestion des collaborateurs invités.
 Ce projet me permet également de pratiquer la gestion de branches, des commits clairs et la 
 synchronisation sur GitHub.
+
+partie2.
+
+Bonjour Je suis le collaborateur fictif Davidllz creer pour simuler et realiser
+le projet collaboratif.
+je travaille sur la branche feature/Davidllz.
