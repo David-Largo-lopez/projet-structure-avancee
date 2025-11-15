@@ -1,0 +1,9 @@
+Bonjour, je m'appelle Oscar David Largo Lopez 
+
+et ceci est mon introduction personnelle pour le projet Git collaboratif.
+Je n’ai pas trouvé de groupe pour réaliser ce TP, donc je simule la collaboration en créant plusieurs
+ branches représentant différents contributeurs.
+Cette approche me permet de comprendre à la fois la configuration du propriétaire du dépôt et la
+ gestion des collaborateurs invités.
+Ce projet me permet également de pratiquer la gestion de branches, des commits clairs et la 
+synchronisation sur GitHub.

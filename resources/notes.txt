@@ -1,0 +1,6 @@
+- Je n’ai pas trouvé de groupe, donc j’ai simulé la collaboration avec plusieurs branches représentant
+ différents membres.
+- J’ai appris à configurer le dépôt en tant que propriétaire et à gérer les droits pour un collaborateur
+ invité.
+- J’ai compris l’importance de commits clairs et de la synchronisation entre branches pour un projet 
+collaboratif.
